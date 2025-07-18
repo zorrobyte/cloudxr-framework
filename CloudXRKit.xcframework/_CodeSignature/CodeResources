@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64-simulator/CloudXRKit.framework/CloudXRKit</key>
 		<data>
-		rr2UwVk46VwNDNrxG8xKmuQZ+Dk=
+		R6e/p2TPqoa0JtPYp9nlVc7oOCo=
 		</data>
 		<key>ios-arm64-simulator/CloudXRKit.framework/Headers/CloudXRKit-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64-simulator/CloudXRKit.framework/Info.plist</key>
 		<data>
-		7Jlw0MNI3k7/j3nwk7bfMhczMW4=
+		YJLqBnF/XjZYLv750m1j+2mTAPQ=
 		</data>
 		<key>ios-arm64-simulator/CloudXRKit.framework/Modules/CloudXRKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64-simulator/CloudXRKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		ImNjuAyaoRd6PGzYgbLIWHbwm38=
+		zyyg/Tcp/314K/oTuwekaFgNrMk=
 		</data>
 		<key>ios-arm64-simulator/CloudXRKit.framework/cloudxr_schema.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ios-arm64/CloudXRKit.framework/CloudXRKit</key>
 		<data>
-		RDj9ENVWFq2+VQ154t+RaCG/UTY=
+		FEEd9gsy/4HW3vTb7sHJUPYdDyk=
 		</data>
 		<key>ios-arm64/CloudXRKit.framework/Headers/CloudXRKit-Swift.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64/CloudXRKit.framework/Info.plist</key>
 		<data>
-		P9c9tqRIefrAHHi8Lan8UcNKtGg=
+		xImnJbQQlG7saZkLHeY0vQbwLSo=
 		</data>
 		<key>ios-arm64/CloudXRKit.framework/Modules/CloudXRKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>xros-arm64-simulator/CloudXRKit.framework/CloudXRKit</key>
 		<data>
-		jHnPpcYXx5QsTufpi/dpZ8FNyX0=
+		SfxfVnyWWp2k1d8IW9FGMv/4514=
 		</data>
 		<key>xros-arm64-simulator/CloudXRKit.framework/Headers/CloudXRKit-Swift.h</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>xros-arm64-simulator/CloudXRKit.framework/Info.plist</key>
 		<data>
-		VBfowU99wgIi6NJNrHvYJ8AaokA=
+		VTw8zdT+rJQq4ahS8lD2PaGzx74=
 		</data>
 		<key>xros-arm64-simulator/CloudXRKit.framework/Modules/CloudXRKit.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>xros-arm64-simulator/CloudXRKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		BTjZL+LxOtfPOXTBmfznCquQ2yA=
+		y0u0wgTSb5zqbU7Cj9YWvQbuplo=
 		</data>
 		<key>xros-arm64-simulator/CloudXRKit.framework/cloudxr_schema.json</key>
 		<data>
@@ -170,7 +170,7 @@
 		</data>
 		<key>xros-arm64/CloudXRKit.framework/CloudXRKit</key>
 		<data>
-		XAXmM2u6s2qdm38OuRJ1JDqqXt0=
+		bSLM4G2Q+tErfHxNEwO5F6FrPC0=
 		</data>
 		<key>xros-arm64/CloudXRKit.framework/Headers/CloudXRKit-Swift.h</key>
 		<data>
@@ -182,7 +182,7 @@
 		</data>
 		<key>xros-arm64/CloudXRKit.framework/Info.plist</key>
 		<data>
-		KBcthUeyyCA63ipi18tZMh3N2Vo=
+		P9BTR5sWVWIxeKVKrWdf5I7ecjM=
 		</data>
 		<key>xros-arm64/CloudXRKit.framework/Modules/CloudXRKit.swiftmodule/arm64-apple-xros.abi.json</key>
 		<data>
@@ -227,11 +227,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rr2UwVk46VwNDNrxG8xKmuQZ+Dk=
+			R6e/p2TPqoa0JtPYp9nlVc7oOCo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ksSSgqCnBHhWthyG7L4e3WhEjjMwN4jaG1NZoFNBvao=
+			1Kl1AYFssQJNVYkvQsf52EUhU/pdtZR5sDDWEGN0sKs=
 			</data>
 		</dict>
 		<key>ios-arm64-simulator/CloudXRKit.framework/Headers/CloudXRKit-Swift.h</key>
@@ -260,11 +260,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Jlw0MNI3k7/j3nwk7bfMhczMW4=
+			YJLqBnF/XjZYLv750m1j+2mTAPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			n+n5mpE6iHrraRqb8nkbx9RRkJwjpJzCjMsnmbjjGxI=
+			fQhS9vuvNv9UIXkh7Dxz1pMiScwUGtVpuqnP7ydfHG8=
 			</data>
 		</dict>
 		<key>ios-arm64-simulator/CloudXRKit.framework/Modules/CloudXRKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -326,11 +326,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ImNjuAyaoRd6PGzYgbLIWHbwm38=
+			zyyg/Tcp/314K/oTuwekaFgNrMk=
 			</data>
 			<key>hash2</key>
 			<data>
-			W7CFACYJL+xv3iMz7UQAqBVcQxSPg1OlM/juSMRPihw=
+			Agb2cx3XR4DLeWqJaUYM6RXOF83VI7rW1KRCpFxMSnQ=
 			</data>
 		</dict>
 		<key>ios-arm64-simulator/CloudXRKit.framework/cloudxr_schema.json</key>
@@ -381,11 +381,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RDj9ENVWFq2+VQ154t+RaCG/UTY=
+			FEEd9gsy/4HW3vTb7sHJUPYdDyk=
 			</data>
 			<key>hash2</key>
 			<data>
-			XIqixk+qNYOG5s9/JG4hP4uA7K9PdELV7Lzv8DTB4fI=
+			90ed40uwY7WH3A/+mMye4Et2K2egcKezzq19N3gHIvg=
 			</data>
 		</dict>
 		<key>ios-arm64/CloudXRKit.framework/Headers/CloudXRKit-Swift.h</key>
@@ -414,11 +414,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P9c9tqRIefrAHHi8Lan8UcNKtGg=
+			xImnJbQQlG7saZkLHeY0vQbwLSo=
 			</data>
 			<key>hash2</key>
 			<data>
-			lX4xCSiQPdX0bTfyQQnOq+u40rVeZNmgLbpNW69n73M=
+			JkZa2ANMZ2vJdsMWDuLpZRy5ZYLiI4NxrkWaE9hBN8E=
 			</data>
 		</dict>
 		<key>ios-arm64/CloudXRKit.framework/Modules/CloudXRKit.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -524,11 +524,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jHnPpcYXx5QsTufpi/dpZ8FNyX0=
+			SfxfVnyWWp2k1d8IW9FGMv/4514=
 			</data>
 			<key>hash2</key>
 			<data>
-			LmNMNX3lIm9EpHzXti1E4rXj3H2Yqa7/mx3kbVYTHO8=
+			VkEL0PPvp1Kx/1HKoSmp+Sq2YYWuh2IDb6A+XZPZ4Fo=
 			</data>
 		</dict>
 		<key>xros-arm64-simulator/CloudXRKit.framework/Headers/CloudXRKit-Swift.h</key>
@@ -557,11 +557,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VBfowU99wgIi6NJNrHvYJ8AaokA=
+			VTw8zdT+rJQq4ahS8lD2PaGzx74=
 			</data>
 			<key>hash2</key>
 			<data>
-			UfC/JiqqEzWcOk4O5Stg6Ejy+NuG62p2S33c6qcfrGw=
+			ZMjU1yYuoZWZZfy+vI9v/F2Um3nOLfp68YpLujJgryA=
 			</data>
 		</dict>
 		<key>xros-arm64-simulator/CloudXRKit.framework/Modules/CloudXRKit.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
@@ -623,11 +623,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BTjZL+LxOtfPOXTBmfznCquQ2yA=
+			y0u0wgTSb5zqbU7Cj9YWvQbuplo=
 			</data>
 			<key>hash2</key>
 			<data>
-			H7xkTu+vwf/zi4TvNwlhfZc/zJyMBOcG/hMNoDlQRCM=
+			WQAf9U6uuOrXUiKTult+9dJCHK5fT3etlC0skVx/EM4=
 			</data>
 		</dict>
 		<key>xros-arm64-simulator/CloudXRKit.framework/cloudxr_schema.json</key>
@@ -678,11 +678,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XAXmM2u6s2qdm38OuRJ1JDqqXt0=
+			bSLM4G2Q+tErfHxNEwO5F6FrPC0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zf7Z/Nda+vFkI2p+oGTYrHy+q529riotN9TpEGGPlik=
+			Hlctu7dQgtEmkWopDMCsSRpNMO+TgYwqUhYXMfoRJnc=
 			</data>
 		</dict>
 		<key>xros-arm64/CloudXRKit.framework/Headers/CloudXRKit-Swift.h</key>
@@ -711,11 +711,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KBcthUeyyCA63ipi18tZMh3N2Vo=
+			P9BTR5sWVWIxeKVKrWdf5I7ecjM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2Er2Xt+EVj3pOZNxehxtYU5HTk3jC0kvvkAoCuq6U0E=
+			W7ai4KeDrlHm3E4PzzZgXFeD4ONF8PX0StiTULEmz4I=
 			</data>
 		</dict>
 		<key>xros-arm64/CloudXRKit.framework/Modules/CloudXRKit.swiftmodule/arm64-apple-xros.abi.json</key>

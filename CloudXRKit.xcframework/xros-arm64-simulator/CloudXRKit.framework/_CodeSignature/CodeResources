@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VBfowU99wgIi6NJNrHvYJ8AaokA=
+		VTw8zdT+rJQq4ahS8lD2PaGzx74=
 		</data>
 		<key>Modules/CloudXRKit.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/CloudXRKit.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		umQ5FmAWOaT6YO9UW4OB5HTC4vQ=
+		N09kC2J6TelUllA2eld4USw7Hdk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GlSjABAy10loiI4s1rQasZBynWuR+DvafpI2k/Y8icI=
+			36mKe2VZtSJLDu7c+6QbCR2FSbsO7vN/CcG4eSkMCTI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

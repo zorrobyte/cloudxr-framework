@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7Jlw0MNI3k7/j3nwk7bfMhczMW4=
+		YJLqBnF/XjZYLv750m1j+2mTAPQ=
 		</data>
 		<key>Modules/CloudXRKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/CloudXRKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iHPdGkzArVQqyWl7kiv1yxNFTKg=
+		pfN4xi0uWQKZpWUj57wBvTssDLs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AT/3akCtKVN2en7Zw8xiQBzwXUC5jSVrlAkxdpihDFY=
+			3nCYa2+1RMV1OxfWr0NdeCfCLEDpS/8d1BmNSWlJASY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
